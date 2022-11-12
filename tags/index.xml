@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Kambo</title>
-    <link>https://github.com/kambodn/David-s_Portfolio.git/tags/</link>
+    <link>https://kambodn.github.io/David-s_Portfolio/tags/</link>
     <description>Recent content in Tags on David Kambo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://github.com/kambodn/David-s_Portfolio.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://kambodn.github.io/David-s_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>machine learning</title>
-      <link>https://github.com/kambodn/David-s_Portfolio.git/tags/machine-learning/</link>
+      <link>https://kambodn.github.io/David-s_Portfolio/tags/machine-learning/</link>
       <pubDate>Fri, 28 Oct 2022 11:15:58 -0400</pubDate>
       
-      <guid>https://github.com/kambodn/David-s_Portfolio.git/tags/machine-learning/</guid>
+      <guid>https://kambodn.github.io/David-s_Portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visualization</title>
-      <link>https://github.com/kambodn/David-s_Portfolio.git/tags/visualization/</link>
+      <link>https://kambodn.github.io/David-s_Portfolio/tags/visualization/</link>
       <pubDate>Wed, 31 Aug 2022 11:15:58 -0400</pubDate>
       
-      <guid>https://github.com/kambodn/David-s_Portfolio.git/tags/visualization/</guid>
+      <guid>https://kambodn.github.io/David-s_Portfolio/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>database</title>
-      <link>https://github.com/kambodn/David-s_Portfolio.git/tags/database/</link>
+      <link>https://kambodn.github.io/David-s_Portfolio/tags/database/</link>
       <pubDate>Sat, 30 Apr 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://github.com/kambodn/David-s_Portfolio.git/tags/database/</guid>
+      <guid>https://kambodn.github.io/David-s_Portfolio/tags/database/</guid>
       <description></description>
     </item>
     
