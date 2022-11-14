@@ -8,6 +8,7 @@ menu:
 ---
 [comment]: <> ({{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}})
 I am a data scientist with background in Mathematics and Computer Science.
-My passion is converting data into useful forms like dashboards, models and insights.
+My passion and motivation resides in converting data into useful forms like dashboards, models and insights.
+\
 I just recently completed my internship where I was part of a team working on a GIS project for a waste water company and I'm currently working on a few projects to be later included in this portfolio.
 

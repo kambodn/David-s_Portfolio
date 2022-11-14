@@ -11,4 +11,6 @@ title: "Project 8: Water Catchment Area Management app"
 - I was in charge of the Geospatial data page showing the waste water treatment plants (WWTP) and the various river water test sites on an interactive folium map.
 - In this page one can view overall test site compliance information by year and quarter and can also drill down to any single site to view its compliance data. This also applies to the WWTP where information specific to them is shown. One can also filter to see only sites that failed in any available parameter of your choice.
 
-[Link to repository](https://github.com/FantasticT4/streamlit-app.git)
+[App demo recording link](https://youtu.be/iGFZhhvMUnE?t=1186)
+\
+[Repository link](https://github.com/FantasticT4/streamlit-app.git)
