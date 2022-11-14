@@ -7,4 +7,4 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/lukas-blazek-mcSDtbWXUZU-unsplash.jpg'
 ---
-Welcome to my Data Science Portfolio. My passion is converting data into useful forms like insights and predictions.
+Welcome to my Data Science Portfolio. My recent projects can be found below.

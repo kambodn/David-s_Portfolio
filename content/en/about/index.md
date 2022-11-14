@@ -8,6 +8,6 @@ menu:
 ---
 [comment]: <> ({{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}})
 I am a data scientist with background in Mathematics and Computer Science.
-I am passionate about exploring problems and coming up with solutions and that led me to this field.
-I just recently completed my internship and currently on a few data science projects to boost my portfolio.
+My passion is converting data into useful forms like dashboards, models and insights.
+I just recently completed my internship where I was part of a team working on a GIS project for a waste water company and I'm currently working on a few projects to be later included in this portfolio.
 
